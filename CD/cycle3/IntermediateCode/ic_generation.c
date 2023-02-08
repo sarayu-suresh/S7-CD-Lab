@@ -1,8 +1,8 @@
 #include<stdio.h>
-
 #include<stdlib.h>
-
 #include<string.h>
+
+//a*b+c*d-e/f
 
 int i=1,j=0,no=0,tmpch=90;
 

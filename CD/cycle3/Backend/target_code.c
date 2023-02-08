@@ -1,5 +1,13 @@
 #include<stdio.h>
 #include<string.h>
+
+/*
+a=b+c
+b=c/d
+d=e/f
+exit
+*/
+
 void main()
 {
  char icode[10][30],str[20],opr[10];
