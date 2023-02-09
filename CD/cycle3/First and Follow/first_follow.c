@@ -3,6 +3,14 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
+/*
+S=A
+A=aBC
+C=dC
+C=#
+B=b
+D=g
+*/
 
 // Functions to calculate Follow
 void followfirst(char, int, int);
